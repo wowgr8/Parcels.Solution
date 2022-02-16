@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/cesar/.dotnet/store/|arch|/|tfm|",
-      "/Users/cesar/.nuget/packages"
-    ]
-  }
-}
